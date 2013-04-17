@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    text-align: center;
+    margin-top; 20px;
+    color: #fff;
+    font-family: fantasy;
+}
+img { 
+    border: 0; 
+}
+div.list {
+    position: absolute;
+    text-align: left;
+    color: #888;
+}
+div.list a {
+    text-decoration: none;
+    color: #888;
+}
